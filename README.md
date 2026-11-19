@@ -1,4 +1,4 @@
 # Interactive Product Demos
 
-Live demos you can try directly in your browser (no login required):
+Live demos you can try directly in your browser:
 **[Open Live Demos](https://byherk.github.io/demos/)**
