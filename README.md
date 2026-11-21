@@ -1,4 +1,4 @@
-# Interactive Product Projects
+# Interactive Product Demos
 
 Live demos you can try directly in your browser:
-**[Open Live Projects](https://byherk.github.io/projects/)**
+**[Open Live Demos](https://byherk.github.io/projects/)**
